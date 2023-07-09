@@ -1,0 +1,8 @@
+<resources>
+    <style name="AppTheme" parent="Theme.AppCompat">
+        <!-- Define dark mode colors -->
+        <item name="colorPrimary">@color/purple_200</item>
+        <item name="colorAccent">@color/purple_500</item>
+        <!-- Other attributes -->
+    </style>
+</resources>
