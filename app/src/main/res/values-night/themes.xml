@@ -1,5 +1,5 @@
 <resources>
-    <style name="AppTheme" parent="Theme.AppCompat">
+    <style name="AppTheme" parent="Theme.AppCompat.NoActionBar">
         <!-- Define dark mode colors -->
         <item name="colorPrimary">@color/purple_200</item>
         <item name="colorAccent">@color/purple_500</item>

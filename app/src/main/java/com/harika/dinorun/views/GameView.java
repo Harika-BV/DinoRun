@@ -301,7 +301,6 @@ public class GameView extends SurfaceView implements SurfaceHolder.Callback {
     private void gameOver() {
         isGameOver = true;
         pauseGame();
-        // Any additional game over logic
     }
 
     private class GameThread extends Thread {
